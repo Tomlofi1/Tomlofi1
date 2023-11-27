@@ -8,6 +8,9 @@ Eu sou um apaixonado por tecnologia, e tive meu primeiro contato com programaç�
 Meu sonho é me tornar fielmente um GameDev e trabalho a cada dia pra isso, sempre amei jogos e sempre ficava me perguntando como eram feitos até que eu consegui fazer meu primeiro jogo na qual me inspirei no Atari Pong(1972) que foi um dos primeiros jogos de arcade a fazer sucesso.
 
 "Pessoas quietas têm as mentes mais brilhantes" - Stephen Hawking
+<div>
+    <img align ="center" src= "https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</div>
 
 ### Tecnologias que eu uso!
 
