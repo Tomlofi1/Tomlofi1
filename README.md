@@ -13,10 +13,9 @@ Meu sonho é me tornar fielmente um GameDev e trabalho a cada dia pra isso, semp
 
 <div style="display: inline_block"><br/>
     <img align="center" alt= "JavaScript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align= "center" alt = "Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
     <img align= "center" alt = "CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
     <img align= "center" alt = "html" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
-    <img align= "center" alt = "django" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" >
-    <img align= "center" alt = "MYSQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+    <img align= "center" alt = "Unreal Engine" src= "!https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" >
+    <img align= "center" alt = "C#" src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align= "center" alt = "Unity" src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
 <div><br/>
