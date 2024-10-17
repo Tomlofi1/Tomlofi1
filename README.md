@@ -15,10 +15,8 @@ Meu sonho é me ingressar no mercado de trabalho como programador Back-End ou Ga
 ### Tecnologias que eu uso!
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt= "JavaScript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align= "center" alt = "CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
-    <img align= "center" alt = "html" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
     <img align= "center" alt = "Unreal Engine" src= "https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" >
     <img align= "center" alt = "C#" src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align= "center" alt = "Unity" src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
+    <img align= "center" alt = ".Net" src= "https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
 <div><br/>
