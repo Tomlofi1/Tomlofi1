@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rccsQWNNrW)
 
 Eu sou um apaixonado por tecnologia, e tive meu primeiro contato com programação aos meus 14 anos de idade com um professor de matemática que fez a turma fazer um trabalho no Scratch, e foi quando percebi que queria fazer daquilo a minha vida.<br/>
-Meu sonho é me tornar fielmente um GameDev e trabalho a cada dia pra isso, sempre amei jogos e sempre ficava me perguntando como eram feitos até que eu consegui fazer meu primeiro jogo na qual me inspirei no Atari Pong(1972) que foi um dos primeiros jogos de arcade a fazer sucesso.
+Meu sonho é me ingressar no mercado de trabalho como programador Back-End ou GameDev e estudo a cada dia pra isso, sempre amei jogos e sempre ficava me perguntando como eram feitos até que eu consegui fazer meu primeiro jogo na qual me inspirei no Atari Pong(1972) que foi um dos primeiros jogos de arcade a fazer sucesso.
 
 "Pessoas quietas têm as mentes mais brilhantes" - Stephen Hawking
 <div>
