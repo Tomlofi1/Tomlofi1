@@ -32,16 +32,18 @@ Atualmente atuo com Node.js, TypeScript e .NET, desenvolvendo soluções interna
 
 ## 📌 Projetos em destaque
 
-🔹 **[API de Integração de CEP](#)**  
-API com múltiplos provedores e sistema de fallback para garantir alta disponibilidade.
+🔹 **[Ticket Rush](https://github.com/Tomlofi1/ticket_rush)**  
+Sistema backend para simular alta concorrência na venda de ingressos, utilizando fila de espera e controle de acesso para evitar sobrecarga e overbooking. Projeto focado em escalabilidade e organização de fluxos de acesso.
 
-🔹 **[Sistema de Automação](#)**  
-Projeto focado em automação de processos e integração entre serviços.
+---
 
-🔹 **[API Backend com Autenticação](#)**  
-API com autenticação, organização de rotas e boas práticas de backend.
+🔹 **[Biblioteca Virtual](https://github.com/Tomlofi1/Biblioteca-Virtual)**  
+Sistema backend para gerenciamento de livros, usuários e empréstimos, com foco em organização de dados, regras de negócio e manipulação de informações em banco de dados.
 
-> (Atualizando constantemente com novos projetos e melhorias)
+---
+
+🔹 **[Pokedex Entity API](https://github.com/Tomlofi1/PokedexEntity)**  
+API para gerenciamento de entidades de Pokémon, com criação via Swagger, validação de dados e estrutura organizada em camadas, simulando um sistema real de cadastro e manipulação de informações.
 
 ---
 
