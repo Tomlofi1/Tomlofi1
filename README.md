@@ -54,7 +54,7 @@ API com autenticação, organização de rotas e boas práticas de backend.
 ## 📫 Contato
 
 - 📧 Email: tomamorimfalcao@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/seu-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/tomlofi/
 - 💻 GitHub: https://github.com/Tomlofi1  
 
 ---
