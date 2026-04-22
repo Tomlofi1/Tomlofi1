@@ -1,24 +1,60 @@
-### Olá! Eu sou o Thomas e seja bem-vindo ao meu GitHub!👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomlofi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomlofii/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKqtCZyI1utvOiolIDuFP7w)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rccsQWNNrW)
+# 👋 Olá, eu sou o Thomas
 
-Eu sou um apaixonado por tecnologia, e tive meu primeiro contato com programação aos meus 14 anos de idade com um professor de matemática que fez a turma fazer um trabalho no Scratch, e foi quando percebi que queria fazer daquilo a minha vida.<br/>
-Meu sonho é me ingressar no mercado de trabalho como programador Back-End ou GameDev e estudo a cada dia pra isso, sempre amei jogos e sempre ficava me perguntando como eram feitos até que eu consegui fazer meu primeiro jogo na qual me inspirei no Atari Pong(1972) que foi um dos primeiros jogos de arcade a fazer sucesso.
+Desenvolvedor Fullstack com foco em backend, APIs e integração de sistemas.
 
-"Pessoas quietas têm as mentes mais brilhantes" - Stephen Hawking
-<div>
-    <img align ="center" src= "https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-</div>
+Atualmente atuo com Node.js, TypeScript e .NET, desenvolvendo soluções internas, automações e integrações entre sistemas, sempre buscando performance, organização e escalabilidade.
 
-### Tecnologias que eu uso!
+---
 
-<div style="display: inline_block"><br/>
-    <img align= "center" alt = "C#" src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align= "center" alt = "Unity" src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
-    <img align= "center" alt = ".Net" src= "https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
-    <img align= "center" alt = "SQL" src= "https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
-    <img align= "center" alt = "Microsoft SQL" src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927">
-    <img align= "center" alt = "PostgreSQL" src= "https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
-<div><br/>
+## 🚀 O que eu faço
+
+- Desenvolvimento de APIs REST
+- Integração entre sistemas (ERP, serviços externos)
+- Automação de processos
+- Manipulação e organização de dados
+- Correção de bugs e melhorias em sistemas existentes
+
+---
+
+## 🛠️ Tecnologias
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **[API de Integração de CEP](#)**  
+API com múltiplos provedores e sistema de fallback para garantir alta disponibilidade.
+
+🔹 **[Sistema de Automação](#)**  
+Projeto focado em automação de processos e integração entre serviços.
+
+🔹 **[API Backend com Autenticação](#)**  
+API com autenticação, organização de rotas e boas práticas de backend.
+
+> (Atualizando constantemente com novos projetos e melhorias)
+
+---
+
+## 📊 GitHub Stats
+
+![Thomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomlofi1&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: tomamorimfalcao@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/seu-link  
+- 💻 GitHub: https://github.com/Tomlofi1  
+
+---
