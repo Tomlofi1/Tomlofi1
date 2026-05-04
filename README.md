@@ -49,7 +49,7 @@ API para gerenciamento de entidades de Pokémon, com criação via Swagger, vali
 
 ## 📊 GitHub Stats
 
-![Thomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomlofi1&show_icons=true&theme=tokyonight)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Tomlofi1)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
